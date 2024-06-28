@@ -4,6 +4,8 @@ This tools used for Automating finding of subdomain also finding login endpoint 
 # What this tools using
 Use subfinder to find subdomains and save them to subdomain.txt.
 
+Use dorkscaper.py to find all login endpoint on the target domain
+
 Use lucek to check for alive subdomains and save them to alive_subs.txt.
 
 Use waybackurls to fetch URLs and save them to wayback.txt.
