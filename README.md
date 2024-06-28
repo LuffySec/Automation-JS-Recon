@@ -1,5 +1,5 @@
 # Automation-JS-Recon
-This tools used for Automating finding of subdomain, and checking for alive subdomain, and gathering js files from all the subdomain and then automating finding of sensitive information on all the js files
+This tools used for Automating finding of subdomain also finding login endpoint on the target domain, and checking for alive subdomain, and gathering js files from all the subdomain and then automating finding of sensitive information on all the js files
 
 # What this tools using
 Use subfinder to find subdomains and save them to subdomain.txt.
